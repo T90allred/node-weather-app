@@ -7,3 +7,11 @@ Weather App using the google maps API to fetch current weather for any geo locat
   <li>Yargs Package</li>
   <li>Google Maps API</li>
 </ul>
+
+<h3>How to Use</h3>
+<ul>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
